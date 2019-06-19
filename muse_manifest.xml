@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabbirpegen.rk" resolutions="1x,2x" timestamp="1560921556194">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabbirpegon.rk" resolutions="1x,2x" timestamp="1560922571519">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3795295150" ref="index"/>
+    <file name="master_a-master.css" crc="4222755644" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="431743530" ref="index"/>
-    <file name="index.css" crc="287299818" ref="index"/>
+    <file name="index.css" crc="164164375" ref="index"/>
     <file name="nomq_index.css" crc="48101898" ref="index"/>
   </folder>
   <folder name="assets">
@@ -146,5 +146,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="248321259" seo="true" mt="1560920715292" redirect="true"/>
+  <file name="index.html" crc="4080548475" seo="true" mt="1560920715292" redirect="true"/>
 </manifest>
