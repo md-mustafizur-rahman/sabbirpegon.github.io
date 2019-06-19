@@ -1,10 +1,13 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabbirpegon.rk" resolutions="1x,2x" timestamp="1560916905532">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="sabbirpegen.rk" resolutions="1x,2x" timestamp="1560921556194">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="4164060262" ref="index"/>
+    <file name="master_a-master.css" crc="3795295150" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="431743530" ref="index"/>
-    <file name="index.css" crc="3816372310" ref="index"/>
-    <file name="nomq_index.css" crc="349585048" ref="index"/>
+    <file name="index.css" crc="287299818" ref="index"/>
+    <file name="nomq_index.css" crc="48101898" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="1200px-icc_cricket_world_cup_2019_logo.svg.webp" crc="4153194172" seo="true" mt="1560617727000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -93,6 +96,12 @@
     <file name="arrowmenudown.png" crc="262559161" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="14264094_317707578584435_7790840545062631100_n83x74.jpg" crc="3779277006" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="14264094_317707578584435_7790840545062631100_n83x74_2x.jpg" crc="4186506419" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="img_0634198x148.jpg" crc="260351829" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -137,5 +146,5 @@
     </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4238369828" seo="true" mt="1560914396946" redirect="true"/>
+  <file name="index.html" crc="248321259" seo="true" mt="1560920715292" redirect="true"/>
 </manifest>
